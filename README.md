@@ -1,1 +1,1 @@
-# sync-test (Test)
+# sync-test
