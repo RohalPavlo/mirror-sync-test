@@ -1,1 +1,1 @@
-# mirror-sync-test 123321
+# sync-test
